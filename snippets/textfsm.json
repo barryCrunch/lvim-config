@@ -1,0 +1,16 @@
+{
+  "hello": {
+    "prefix": "hello",
+    "body": [
+      "print('Hello, World!')"
+    ],
+    "description": "print Hello, World!"
+  },
+  "value": {
+    "prefix": "value",
+    "body": [
+      "Value ${1} (${2})${0}"
+    ],
+    "description": "Create a value for Textfsm"
+  }
+}
